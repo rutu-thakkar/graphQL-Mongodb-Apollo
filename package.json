@@ -1,14 +1,14 @@
 {
-  "name": "projectlearninggraphql",
+  "name": "apolloexpressmongographql",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic CRUD for posts",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rutu Thakkar",
   "license": "ISC",
   "dependencies": {
     "apollo-server-express": "^3.7.0",
